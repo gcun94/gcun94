@@ -7,8 +7,10 @@
 
 ### 🚀 Main Skills:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-C65D21?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3A3B3C?style=for-the-badge&logo=github&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=databricks&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
