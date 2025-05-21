@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=	#3A3B3C&height=120&section=header"/> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Cunha;I'm+31+years+old;I'm+from+Brazil;Future+Data+Scientist;Be+Welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=#FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Cunha;Future+Data+scientist;Building+data-driven+solutions;Committed+to+continuous+learning;Open+to+new+challenges;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
 
 
