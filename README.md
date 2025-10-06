@@ -10,8 +10,4 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFD700)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
-![Git](https://img.shields.io/badge/Git-C65D21?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3A3B3C?style=for-the-badge&logo=github&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=databricks&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
