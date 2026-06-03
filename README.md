@@ -15,10 +15,6 @@
   e projetos reais que conectam número a decisão de negócio.
 </p>
 
-<p align="center">
-  Data Science · Machine Learning · Python · SQL · Power BI
-</p>
-
 
 ### 🚀 Main Skills:
 
