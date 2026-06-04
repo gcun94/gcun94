@@ -9,10 +9,10 @@
 <p align="center">
   <b>EN</b> — 8 years reducing costs and SLA in logistics operations with data, <br>
   without knowing it had a name. Now formalizing that: Python, ML, visualization<br>
-  and real projects that connect numbers to business decisions.<br><br>
+  in real projects that connect numbers to business decisions.<br><br>
   <b>PT</b> — 8 anos reduzindo custos e SLA em operações de logística com dados, <br>
   sem saber que isso tinha nome. Hoje formalizo: Python, ML, visualização<br>
-  e projetos reais que conectam número a decisão de negócio.
+  em projetos reais que conectam número a decisão de negócio.
 </p>
 
 
